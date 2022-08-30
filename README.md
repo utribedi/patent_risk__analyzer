@@ -5,6 +5,6 @@ prediction of potential rivals who are working in the same feild can be of great
 can come next. The analysis is done from a corpus of collected documents of patents by various companies and then doing sophisticated text preprocessing and analysis using NLP, topic modeling on them.
 
 Technical summary of the work done:
-##### a. Identifying the top 40 topics using NMF and LDA.
-##### b. Doing a Hierarchical cluster of companies based on text similarity of patents.
-##### c. Creating a MDS map of the companies using text similarity.
+###### a. Identifying the top 40 topics using NMF and LDA.
+###### b. Doing a Hierarchical cluster of companies based on text similarity of patents.
+###### c. Creating a MDS map of the companies using text similarity.
