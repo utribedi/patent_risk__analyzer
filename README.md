@@ -1,4 +1,4 @@
-#Litigation risk analyzer
+# Litigation risk analyzer
 
 In this project we try to analyze potential rival companies for a specific which may in future sue them and run into litigation issues. The prior
 prediction of potential rivals who are working in the same feild can be of great help especially in terms of being aware and being prepared what 
